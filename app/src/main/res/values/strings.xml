@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="roll">Roll</string>
+    <string name="about">Hi, I\'m Matrix.\n\nThe application \'Virtual Dice Roller\', which you are using now, is a casual game content.\n\nYou can get a random dice number as in real dice.\n\n\nSerial number: 10\nDate of creation: 15 February 2022\nContact us: matrixinventions@gmail.com.</string>
+</resources>
